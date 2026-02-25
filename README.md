@@ -1,5 +1,7 @@
 # E-Commerce Sales Dashboard | 电商销售仪表盘
 
+https://github.com/szbsi/demo_wed_jupyter
+
 [English](#english) | [中文简体](#中文简体)
 
 ---
